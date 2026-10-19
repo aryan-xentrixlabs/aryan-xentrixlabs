@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0B0B,50:153D35,100:9BCF53&text=ARYAN&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=FLUTTER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
@@ -10,11 +9,11 @@
 <br/>
 
 <a href="https://github.com/aryan-xentrixlabs?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111111?style=for-the-badge&logo=github&logoColor=9BCF53" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111111?style=for-the-badge&logo=github&logoColor=9BCF53" />
 </a>
 
 <a href="https://github.com/aryan-xentrixlabs">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -30,7 +29,7 @@ focus:
   - Cross-platform mobile applications
   - Modern web applications
   - Scalable backend systems
-  - API & payment integrations
+  - API and payment integrations
 mindset: Build it. Refine it. Ship it.
 ```
 
